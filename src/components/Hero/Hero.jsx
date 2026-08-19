@@ -14,7 +14,7 @@ function Hero() {
           modern, scalable, and user-friendly applications.
         </p>
 
-        <a href="/Shireesha_Pulaganti_Resume.pdf" download>
+        <a href="/portfolio/Shireesha_Pulaganti_Resume.pdf" download>
           <button>Download Resume</button>
         </a>
       </div>
