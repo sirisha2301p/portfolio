@@ -1,0 +1,25 @@
+.education {
+  padding: 80px 10%;
+  background: #f8f9fa;
+}
+
+.education h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.education-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 5px 15px rgba(0,0,0,.1);
+}
+
+.education-card h3 {
+  color: #2563eb;
+}
+
+.education-card span {
+  color: gray;
+}
